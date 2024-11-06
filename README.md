@@ -11,7 +11,7 @@
      - 기온
       ![기온 시각화](image/temp.png)
      - 습도
-       ![습도 시각화](image/humaidity.png)
+       ![습도 시각화](image/humidity.png)
      - 일조일사
        ![일조일사 시각화](image/sun.png)
 
