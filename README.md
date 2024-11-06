@@ -33,7 +33,7 @@
      - `k` 값이 3이 적당함  
      - **KMeans를 이용한 클러스터링**  
        - 클러스터링 값을 데이터셋에 병합
-         ![클러스터링 결과](image/clusterk2.png)
+         ![클러스터링 결과](image/clusterk3.png)
 
 
 5. **강수량 데이터 병합**  
@@ -50,7 +50,7 @@
 
 ## K값 조정 및 재분석  
    - 결론이 마음에 들지 않아 `k=2`로 설정하고 클러스터링 재진행
-     ![클러스터링 결과](image/clusterk3.png)
+     ![클러스터링 결과](image/clusterk2.png)
      - **결과**  
        - 0번 영역 비올 확률: 90%  
        - 1번 영역 비올 확률: 20%  
@@ -95,7 +95,7 @@ The following text was originally written in Korean and then translated into Eng
      - Set the `k` value based on the sharp drop in inertia, determining that `k=3` was appropriate.
      - **Clustering with KMeans**
        - Merged the clustering results back into the dataset.
-         ![Clustering Results](image/clusterk2.png)
+         ![Clustering Results](image/clusterk3.png)
 
 5. **Merging Precipitation Data**
    - Merged the precipitation dataset with the clustered dataset.
@@ -111,7 +111,7 @@ The following text was originally written in Korean and then translated into Eng
 
 ## Adjustment of K Value and Reanalysis
    - Unsatisfied with the initial results, reset `k=2` and re-clustered.
-     ![Clustering Results](image/clusterk3.png)
+     ![Clustering Results](image/clusterk2.png)
      - **Results**
        - Probability of rain in Region 0: 90%
        - Probability of rain in Region 1: 20%
