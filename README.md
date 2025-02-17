@@ -1,3 +1,9 @@
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.x-blue?logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.x-blue?logo=numpy)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-blue?logo=matplotlib)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-blue?logo=scikit--learn)](https://scikit-learn.org/stable/)
+
 # 기상청 데이터 클러스터링 분석
 
 <img src="image/IMG_6696.heic" alt="매트릭스" width="300">
